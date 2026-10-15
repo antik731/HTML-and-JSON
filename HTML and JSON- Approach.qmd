@@ -1,0 +1,10 @@
+---
+title: "HTML and JSON: Approach"
+author: "Antik Salimullah"
+format: html
+editor: visual
+---
+
+## Approach
+
+For this assignment, I plan to choose three books on the same subject and record their titles, authors, and a few additional details. I'll manually create an HTML table and a JSON file using the same information. Then I'll use R to load both files into separate data frames and compare them to see if they're identical.
